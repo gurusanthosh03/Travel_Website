@@ -144,7 +144,7 @@
 @media(max-width:767px)
 {
         .home{
-            background-position:center center;
+            background-position:50%;
             background-repeat: no-repeat;
             background-size: cover;
         }
